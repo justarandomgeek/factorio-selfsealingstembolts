@@ -1,11 +1,11 @@
 {
   "name": "selfsealingstembolts",
-  "version": "0.16.0",
-  "factorio_version": "0.16",
+  "version": "0.17.0",
+  "factorio_version": "0.17",
   "title": "Self Sealing Stembolts",
   "author": "justarandomgeek",
   "homepage": "",
   "contact": "justarandomgeek@gmail.com",
-  "description": "Self-sealing stem bolts are, as their name suggested, stem bolts that seal themselves.",
+  "description": "Self-sealing stem bolts are, as their name suggests, stem bolts that seal themselves.",
   "dependencies": []
 }
